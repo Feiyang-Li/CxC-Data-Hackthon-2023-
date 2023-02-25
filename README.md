@@ -31,3 +31,9 @@ In the end we find out ExtraTreesClassifier model provided us with best result.
 
 Future imporvement:
  - Might investigate more on Neuron network, especially fine turing parameter might drastically improve the accuracy. 
+ 
+ # label_result_Ligard_Forest_method.csv    is the final training prediction reseult
+ 
+ Thanks for reading. 
+ 
+ 
