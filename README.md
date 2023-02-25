@@ -13,6 +13,10 @@ Using feature above we predict if this section of the amino acid bind or not bin
 
 We used ExtraTreesClassifier with fine turn parameter for our prediction model which accheive 71.90% in our test sets.
 
+And note this 71.90% is when we resampled the given data so there is equally number of positive binding and negative binding.
+
+Also Note the data is very inbalance with ~96.5% of negative binding.
+
 We tried ML model like:
 - Logistic regression
 - Support vector machine
